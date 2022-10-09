@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+This very basic React app is part of my Udemy course [React Basics for Developers](https://www.udemy.com/course/react-basics-for-developers/?referralCode=4D7B68443467018C5ED7) and is later used as a placeholder Portfolio Piece in my soon-to-be-published course "Create a Portfolio App with React 18 and React Router 6 (with React hooks, custom-made hook, Context API)".
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+From the "React Basics for Developers" course description on Udemy:
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> React is the most widely used front end development technology in 2022, and for good reason.
+> 
+> In this course, we take a hands-on approach to exploring React at a foundational level through three key concepts: React is declarative, React is component-based, React is composable. 
+> 
+> We use React 18 and create-react-app to create three small apps.
+> 
+> Plain language is used to relate abstract concepts such as components, composability, and state to real world examples.
+> 
+> Some of the things we will do are:
+> 
+>   * Run create-react-app in the terminal to generate our boilerplate App
+> 
+>   * Write function components from scratch to create three small React Apps
+> 
+>   * Explore React State both conceptually and practically
+> 
+>   * Explore the State Object and see how the useState() hook manages the State Object for us
+> 
+>   * Manage State in our App with the useState() hook
+> 
+>   * Discuss ways to improve scalability and performance in our App
+> 
+>   * Nest components and pass props
+> 
+> At the end of this course, you can expect to have a solid foundation of React understanding that you can build on in whatever direction you like: whether you are interested in becoming a React specialist, whether you're just looking to add another tool to your Developer tool belt, or whether you simply wish to gain an understanding of React at a foundational level.
